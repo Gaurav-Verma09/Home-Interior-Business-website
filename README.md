@@ -3,7 +3,9 @@
 A modern and responsive Home Interior Design website built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
-(Add your GitHub Pages link here after deployment)
+You can check out here:
+
+https://besthomeinteriornoida.netlify.app/
 
 ---
 
@@ -22,6 +24,8 @@ The goal of this project was to create a clean, professional, and user-friendly 
 - CSS3
 - JavaScript
 - Font Awesome Icons
+- Material UI
+- React.js
 
 ---
 
